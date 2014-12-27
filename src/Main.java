@@ -7,7 +7,8 @@ public class Main {
 		System.out.println("hi2");
 		System.out.println("test3");
 		System.out.println("test4");
-		System.out.println("test4");
+		System.out.println("test5");
+		System.out.println("hi6");
 		System.out.println("Pro5");
 	}
 
